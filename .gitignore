@@ -1,0 +1,16 @@
+#config files
+config/
+
+# Distribution Folder
+dist/
+public/
+
+# Node Js Dependencies
+node_modules/
+
+# IDE files
+.awcache
+.idea
+
+# OS generated files
+.DS_Store
